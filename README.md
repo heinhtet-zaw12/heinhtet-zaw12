@@ -10,14 +10,17 @@ I'm a passionate **Mobile Application Developer** from Myanmar 🇲🇲 speciali
 
 **About me**
 
-- 📱 Crafting high-performance mobile architectures using **Dart & Swift**
+- 📱 **Mobile Application Developer** specializing in building high-performance, scalable cross-platform and native environments.
 
-- 🎨 Designing elegant, reactive user interfaces with **Flutter & SwiftUI**
+- 🏗️ **Architecture & Patterns:** Heavily experienced in applying **Clean Architecture** and **MVVM (Model-View-ViewModel)** patterns inside Flutter to ensure modularity and maintainability. Strict follower of **SOLID principles** and clean code guidelines.
 
-- 🏗️ Deeply interested in Clean Architecture, SOLID principles, and declarative UI patterns
+- 🔄 **State Management:** Proficient in production-grade state management solutions, including **Riverpod** and **BLoC / Cubit**, for managing complex asynchronous data flows and reactive user interfaces.
+
+- 🎨 Crafting fluid declarative UIs using both **Flutter** and **SwiftUI** for native iOS development.
 
 - 💬 Ask me about anything mobile development or tech related [here](https://github.com/heinhtet-zaw12/heinhtet-zaw12/issues)
 
+<br />
 <code><img height="28" alt="dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="28" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="28" alt="swift" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
@@ -25,6 +28,8 @@ I'm a passionate **Mobile Application Developer** from Myanmar 🇲🇲 speciali
 <code><img height="28" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="28" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
+<br />
 | <a href="https://github.com/heinhtet-zaw12"><img align="center" src="https://github-readme-stats.vercel.app/api?username=heinhtet-zaw12&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hein Htet's github stats" /></a> | <a href="https://github.com/heinhtet-zaw12"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heinhtet-zaw12&layout=compact&theme=buefy&hide_border=true&langs_count=6" /></a> |
 | ------------- | ------------- |
 
