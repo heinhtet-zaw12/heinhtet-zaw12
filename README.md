@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img width="80%" alt="Hello, I'm Hein Htet Zaw. I am a Mobile & iOS Developer!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Hein+Htet+Zaw!;I'm+a+Mobile+%26+iOS+Developer.;Building+Cross-Platform+%26+Native+Apps." />
+    <img width="80%" alt="Hello, I'm Hein Htet Zaw. I am a Mobile & iOS Developer!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Hein+Htet+Zaw!;I'm+a+Mobile+%26+iOS+Developer.;" />
   </a>
 </p>
 
